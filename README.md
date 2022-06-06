@@ -1,0 +1,46 @@
+# AWS+DevOps Learning Day 1 useful links
+
+Syllabus as per BJSHUB
+https://docs.google.com/spreadsheets/d/1-nr0rS89RTc_Ma7eARsqsEiCsqKVVNkU/edit#gid=1006934673
+
+45,000+ Opening for AWS and DevOps on Naukri...
+https://www.naukri.com/devops-aws-jobs?k=devops,%20aws
+
+Glassdoor
+https://www.glassdoor.co.in/Salaries/devops-engineer-salary-SRCH_KO0,15.htm?countryRedirect=true
+
+Stackoverflow
+https://stackoverflow.blog/2019/10/16/coding-salaries-in-2019-updating-the-stack-overflow-salary-calculator/
+
+Top Reasons to Learn DevOps in 2022
+https://latest-blog.medium.com/top-5-reasons-to-learn-devops-1892d1585319
+http://iihtvadapalani.com/top-5-reasons-to-learn-devops/
+
+If you have overall 5+years of IT Experience Read White Papers
+
+Overview of Amazon Web Services
+https://d1.awsstatic.com/whitepapers/aws-overview.pdf
+
+AWS Well-Architected Framework
+https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
+
+Architecting for the Cloud
+https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
+
+Backup and Recovery Approaches Using AWS
+https://d1.awsstatic.com/whitepapers/Storage/Backup_and_Recovery_Approaches_Using_AWS.pdf?did=wp_card&trk=wp_card
+
+AWS Certification BluePrint
+https://aws.amazon.com/certification/
+
+GIT installation download link
+https://git-scm.com/downloads
+
+GITHUB link sign-up and creating account
+https://github.com/
+
+Visual Studio Code link
+https://code.visualstudio.com/
+
+OBS for Video recording
+https://obsproject.com/download
