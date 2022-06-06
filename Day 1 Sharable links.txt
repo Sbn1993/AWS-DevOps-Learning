@@ -31,3 +31,12 @@ https://d1.awsstatic.com/whitepapers/Storage/Backup_and_Recovery_Approaches_Usin
 
 AWS Certification BluePrint
 https://aws.amazon.com/certification/
+
+GIT installation download link
+https://git-scm.com/downloads
+
+GITHUB link sign-up and creating account
+https://github.com/
+
+Visual Studio Code link
+https://code.visualstudio.com/
