@@ -45,6 +45,9 @@ https://code.visualstudio.com/
 OBS for Video recording
 https://obsproject.com/download
 
+Notepad ++ Download 
+https://notepad-plus-plus.org/downloads/
+
 
 # AWS+DevOps Learning Day 2 useful links
 
