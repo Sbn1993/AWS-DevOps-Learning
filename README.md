@@ -86,10 +86,42 @@ https://youtu.be/6DQmnwkMT9c
 90DaysOfDevOpsLearning
 https://github.com/Sbn1993/90DaysOfDevOpsLearning.git
 
-
 Microsoft Virtual Training Days
 https://mvtd.events.microsoft.com/
 
-
 AZ-900: Microsoft Azure Fundamentals Sample Questions
 https://docs.microsoft.com/en-us/learn/certifications/resources/az-900-sample-questions?azure-portal=true
+
+# AWS+DevOps Learning Day 5 useful links
+
+Free CSS Templates, CSS Layouts & More!
+https://www.free-css.com/
+
+Mobaxterm similar to Putty
+https://mobaxterm.mobatek.net/download.html
+
+Create a Docker account and play with linux commands
+https://labs.play-with-docker.com/
+
+
+GITHUB links for free and open source codes of Operating Systems
+https://github.com/jubalh/awesome-os
+https://github.com/torvalds/linux
+
+File permission for Linux/Unix
+Chmod Calculator
+https://www.easyunitconverter.com/chmod-calculator
+
+crontab guru
+The quick and simple editor for cron schedule expressions by Cronitor
+https://crontab.guru/
+
+HTTP Status Codes Glossary
+https://www.webfx.com/web-development/glossary/http-status-codes/
+
+Linux/Unix Tutorial
+https://www.javatpoint.com/linux-tutorial
+
+Vi Editor with Commands
+https://www.javatpoint.com/vi-editor
+ 
