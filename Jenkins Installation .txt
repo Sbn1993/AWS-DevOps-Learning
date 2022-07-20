@@ -1,0 +1,17 @@
+To Install Jenkins or run the Jenkins war file, 
+we require java to be installed in the system as a dependency.
+Below links are references for installing Java
+
+https://downlinko.com/download-install-jdk-8-windows.html
+
+https://www.oracle.com/java/technologies/downloads/#license-lightbox
+
+You can also refer to the YouTube Video below
+https://www.youtube.com/watch?v=_YmuR4aw9pM
+
+Running Jenkins without installation using war file.
+*****************************************************
+
+java -jar jenkins.war
+java -jar jenkins.war --httpPort=8082
+
