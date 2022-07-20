@@ -129,6 +129,7 @@ https://www.javatpoint.com/vi-editor
 # Running Jenkins without installation using war file.
 
 commands for running war file.
+
 java -jar jenkins.war                   "This will run Jenkins on default port 8080 without actually installing it."
 
 
