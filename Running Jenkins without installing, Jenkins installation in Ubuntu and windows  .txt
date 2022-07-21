@@ -1,6 +1,7 @@
 To Install Jenkins or run the Jenkins war file, 
 we require java to be installed in the system as a dependency.
-Below links are references for installing Java
+
+# Below links are references for installing Java
 
 https://downlinko.com/download-install-jdk-8-windows.html
 
@@ -9,8 +10,7 @@ https://www.oracle.com/java/technologies/downloads/#license-lightbox
 You can also refer to the YouTube Video below
 https://www.youtube.com/watch?v=_YmuR4aw9pM
 
-Running Jenkins without installation using war file.
-*****************************************************
+# Running Jenkins without installation using war file
 
 java -jar jenkins.war
 java -jar jenkins.war --httpPort=8082
@@ -43,3 +43,17 @@ Done
 
 Step 5: Verify installation
 $ systemctl status jenkins
+
+
+Step 6: Once Jenkins is up and running, access it from the
+link: http://localhost:8080    or the IP of virtual machine like xx.xx.xx.xx:8080
+
+Get the initial admin pwd from command  cat /var/lib/jenkins/secrets/initialAdminPassword
+Start, Stop & Restart Jenkins
+$ sudo service jenkins restart
+$ sudo service jenkins stop
+$ sudo service jenkins start
+
+# Jenkins installation in Windows
+
+https://www.jenkins.io/doc/book/installing/windows/
