@@ -124,13 +124,21 @@ https://www.javatpoint.com/linux-tutorial
 
 Vi Editor with Commands
 https://www.javatpoint.com/vi-editor
- 
- 
-# Running Jenkins without installation using war file.
+************************************************************
+# Below links are references for installing Java
+https://downlinko.com/download-install-jdk-8-windows.html
+https://www.oracle.com/java/technologies/downloads/#license-lightbox
 
-commands for running war file.
+You can also refer to the YouTube Video below
+https://www.youtube.com/watch?v=_YmuR4aw9pM
 
-java -jar jenkins.war                   "This will run Jenkins on default port 8080 without actually installing it."
+# Running Jenkins without installation using war file
 
+java -jar jenkins.war
+java -jar jenkins.war --httpPort=8082
 
-java -jar jenkins.war --httpPort=8082   "This will run Jenkins on port 8082 without actually installing it."
+# Installing Jenkins in ubuntu
+https://www.jenkins.io/doc/book/installing/linux/
+
+# Jenkins installation in Windows
+https://www.jenkins.io/doc/book/installing/windows/
