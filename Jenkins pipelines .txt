@@ -1,0 +1,28 @@
+pipeline {
+agent any
+    stages {
+        stage('Git clone') {
+            steps {
+            git branch: 'main', url: 'https://github.com/Sbn1993/helloworldsimplejavaprogram.git'
+            }
+        }
+        stage('Build'){
+            steps{
+            sh 'javac helloworld.java'
+            }
+        }
+        stage('Run'){
+            steps{
+            sh 'java Simple'
+            }
+        }
+		stage('Sending mail'){
+            steps{
+             mail bcc: 'shashank77nandihalli@gmail.com', body: '''Hi Sachin Inchal,
+
+This is to inform you that build is completed.
+''', cc: 'shashank77nandihalli@yahoo.in', from: '', replyTo: '', subject: 'The Build is completed', to: 'sachininchal77@gmail.com'
+            }
+        }
+    }
+}

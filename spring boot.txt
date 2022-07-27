@@ -1,0 +1,11 @@
+class Simple{
+    public static void main(String args[]){
+    System.out.println("Hey Students from BJSHUB Batch 26");
+    }
+}
+
+
+
+
+
+git branch: 'main', url: 'https://github.com/Sbn1993/Pet-application-ci-maven.git'

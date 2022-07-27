@@ -1,0 +1,3 @@
+cd spring-petclinic
+set path=C:\Bin\apache-maven-3.8.5\bin
+mvn package
